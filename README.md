@@ -1,8 +1,19 @@
-Demo server at
-https://upload.soren.dreano.net
-The webapp is behind a nginx reverse proxy to provide TLS encryption/https
-The command I use to run the server is FLASK_APP=imageupload.py flask run
-Then navigate to localhost:5000
-You'll have to uncomment the bucket_name line and comment the second one, it is just that I prefer to avoid spawning 3429 buckets when coding
+<h1> <div align="center"> CA4106 - Cloud Computing Assignment </div> </h1>
+<h3> <div align="center"> https://upload.soren.dreano.net </div> </h3>
 
-And something that does not work: the bucket is not public... So you have to connect to AWS, so this part does not "work" as intended
+<hr>
+<div align="center"> <img src="final_screenshots/3.PNG"> </div>
+<hr>
+
+<h2> Project Description </h2>
+Needs to be updated
+<hr>
+
+<h2> Roles & Responsibilities </h2>
+Needs to be updated
+<hr>
+
+<h2> Live Code Screenshots </h2>
+Live code screenshots can be found in the **final_screenshots** directory of this repository.
+<hr>
+
