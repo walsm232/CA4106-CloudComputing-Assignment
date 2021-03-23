@@ -9,11 +9,6 @@
 Needs to be updated
 <hr>
 
-<h2> Roles & Responsibilities </h2>
-Needs to be updated
+<h2> YouTube Video Demo </h2>
+Link: needs to be added
 <hr>
-
-<h2> Live Code Screenshots </h2>
-Live code screenshots can be found in the **final_screenshots** directory of this repository.
-<hr>
-
