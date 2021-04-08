@@ -1,5 +1,5 @@
 <h1> <div align="center"> CA4106 - Cloud Computing Assignment </div> </h1>
-<h3> <div align="center"> https://upload.soren.dreano.net </div> </h3>
+<h3> <div align="center"> https://imageupload.soren.dreano.net/ </div> </h3>
 
 <hr>
 <div align="center"> <img src="final_screenshots/3.PNG"> </div>
