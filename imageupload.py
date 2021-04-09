@@ -9,8 +9,8 @@ app = Flask(__name__)
 accepted_mimetypes = ["image/jpg", "image/jpeg", "image/png", "image/gif", "image/bmp"]
 s3 = boto3.resource('s3')
 
-#bucket_name = f"ca4016-images-upload-group-3-{str(random.randint(1000, 9999))}"
-bucket_name = "ca4016-images-upload-group-3-1394"
+bucket_name = f"CA4016-Images-Upload-Group-3-{str(random.randint(1000, 9999))}"
+# bucket_name = "CA4016-Images-Upload-Group-3-1394"
 url = f"https://s3.console.aws.amazon.com/s3/buckets/{bucket_name}?region=eu-west-1&tab=objects"
 
 try:
