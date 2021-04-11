@@ -2,7 +2,7 @@
 <h3> <div align="center"> https://imageupload.soren.dreano.net/ </div> </h3>
 
 <hr>
-<div align="center"> <img src="final_screenshots/3.PNG"> </div>
+<div align="center"> <img src="readme-image.PNG"> </div>
 <hr>
 
 <h2> Project Description </h2>
