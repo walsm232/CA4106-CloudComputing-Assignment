@@ -1,4 +1,5 @@
 <h1> <div align="center"> CA4106 - Cloud Computing Assignment </div> </h1>
+<h2> <div align="center"> Grade: 82% </div> </h2>
 <h3> <div align="center"> https://imageupload.soren.dreano.net/ </div> </h3>
 
 <hr>
